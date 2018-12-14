@@ -5,13 +5,17 @@
 
 ## User Instructions:
 1. Please be aware that this app could only process **plain text file**. You have to respectively convert or copy/paste your two documents into **.txt** format. It should look like this:
+
 ![.txt fromat demo](https://github.com/hyphenzhao/DocsComparison/blob/master/demopic1.jpg)
+
 2. Double click the App, it should be run if you have properly installed JRE. If the **.jar** file does not turn into executable file, please try to restart computer after **JRE installation.**
 3. Click on the **“Load paper 1”** button to browse and choose your first document. Click on the **“Load paper 2”** button to browse and choose your second document. It may take some time to load the text if the paper is very large.
 4. You could specify the **“similarity check threshold”** by changing the number in the bottom. This number should between 0 to 90. 0 means only the exactly duplicated sentences will be highlighted while 90 means basically all sentences will be highlighted. I would recommend value less than 30 according to my experience during the debug stage. The highlight colour will be orange and green where **orange means “These sentences are exactly same in two documents” and green means “These sentences have either been changed or paraphrased in the other document”.**
 5. Click **“Compare Now!”** button to start compare. It may takes some time to process the comparison. Please be patient if the document is very large. If it does not response in more than 5 mins, please terminate the app and contact me. I’ll double check the code to see if there is any undetected bugs there.
 + The example result picture:
-![example pic](https://github.com/hyphenzhao/DocsComparison/blob/master/demopic2.jpg)
+
+![example pic](https://github.com/hyphenzhao/DocsComparison/blob/master/demopic2.png)
+
 ## Advantages:
 1. Simple.
 2. Completely offline and secure. 
