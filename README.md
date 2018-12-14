@@ -4,9 +4,8 @@
 2. Download the App [DocComparison.jar](https://drive.google.com/open?id=1fy8ri37NjXHdgrG4Ch635OpEt-gJkQ_j)
 
 ## User Instructions:
-1. Please be aware that this app could only process **plain text file**. You have to respectively convert or copy/paste your two documents into **.txt** format. It should look like this:
-
-![.txt fromat demo](https://github.com/hyphenzhao/DocsComparison/blob/master/demopic1.jpg)
+1. ~~Please be aware that this app could only process **plain text file**. You have to respectively convert or copy/paste your two documents into **.txt** format. ~~
+Now this App could support txt/doc/docx format. Please do not change extension name. If you want to use plain text, please use convert function in Microsoft Word insteadly. Here is a tutorial if you found problems of converting the format: [How to convert Word Document files into plain-text files](https://wmtang.org/2008/01/11/how-to-convert-word-document-files-into-plain-text-files/)
 
 2. Double click the App, it should be run if you have properly installed JRE. If the **.jar** file does not turn into executable file, please try to restart computer after **JRE installation.**
 3. Click on the **“Load paper 1”** button to browse and choose your first document. Click on the **“Load paper 2”** button to browse and choose your second document. It may take some time to load the text if the paper is very large.
